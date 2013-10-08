@@ -1,3 +1,9 @@
+- pasarlo a beta2
+- mejorar el diseño
+para añadirlo a http://paste.kumbiaphp.com
+
+Gracias @onizukar
+
 Sistema para compartir fragmentos de código y visualizarlo en la sintaxis indicada; Permite socializarlo los post con twitter al igual que asociar los post a la cuenta de twitter indicada o usada como login
 
 Esta hecho con KumbiaPHP Framework versión Beta1, Pasteku es un simple juego de palabras entre 'Paste' y 'Ku' de kumbiaphp
@@ -5,7 +11,7 @@ Esta hecho con KumbiaPHP Framework versión Beta1, Pasteku es un simple juego de
 http://www.kumbiaphp.com
 
 
-- REQUERIMIENTOS
+- REQUERIMIENTOs
 Se requiere de un servidor apache con php versión 5.2.x
 Se necesita el core de kumbiaphp de la versión Beta1
 Algún motor de base de datos
